@@ -1,1 +1,1 @@
-# KvantoriumPskov
+# openCV examples
